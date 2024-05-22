@@ -1,5 +1,8 @@
 # HX711_ATMEGA128
-HX711 TO ATMEGA128
+HX711 TO ATMEGA128   
+
+![BlockDiagram](https://github.com/top60331/HX711_ATMEGA128/assets/31553672/2be60195-b590-4db9-b800-db8692c1b4fb)
+
 This project was developed using AtmelStudio7 (version 7.0.129) IDE.
 
 Basic Functionality
